@@ -22,4 +22,4 @@ If everything goes as expected, your output should look like this:
 
 XXX
 
-This assignment is due at the beginning of class next *Monday, Sept. 11.* It should only take 5 minutes.
+This assignment is due at the beginning of class next **Monday, Sept. 11.** It should only take 5 minutes.
