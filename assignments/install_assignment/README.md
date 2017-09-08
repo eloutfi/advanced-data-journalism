@@ -20,6 +20,6 @@ Once that's ready, just follow these steps:
 
 If everything goes as expected, your output should look like this:
 
-XXX
+<img width="569" alt="screen shot 2017-09-08 at 10 51 10 am" src="https://user-images.githubusercontent.com/947791/30217298-bb79cd24-9483-11e7-8ff9-7011c22e67bd.png">
 
 This assignment is due at the beginning of class next **Monday, Sept. 11.** It should only take 5 minutes.
