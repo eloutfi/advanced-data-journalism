@@ -44,3 +44,5 @@ Most major news organizations maintain a presence on Github. Here are a few wort
   - [FiveThirtyEight](https://github.com/fivethirtyeight)
   - [St. Louis Post-Dispatch](https://github.com/PostDispatchInteractive)
   - [Chicago Tribune](https://github.com/newsapps)
+  - [Vox](https://github.com/voxmedia)
+  - [Politico](https://github.com/The-Politico)
