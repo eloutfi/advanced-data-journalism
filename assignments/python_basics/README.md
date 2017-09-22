@@ -14,4 +14,4 @@ Friday, Sept. 22
 
 Assignment: Finish the **Python Syntax** section (don't worry about the quiz unless you want to).
 
-**Due**: Monday, Sept. 15
+**Due**: Monday, Sept. 25
