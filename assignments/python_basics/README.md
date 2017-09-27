@@ -9,9 +9,16 @@ The best way to turn in this assignment will be to create a new folder in the Gi
 
 Put that image in the folder and check it in.
 
-Friday, Sept. 22
+Monday, Sept. 25
 ---------------
 
 Assignment: Finish the **Python Syntax** section (don't worry about the quiz unless you want to).
 
-**Due**: Monday, Sept. 25
+**Due**: Wednesday, Sept. 27
+
+Wednesday, Sept. 27
+---------------
+
+Assignment: Finish the **Strings and Console Output** section. Again, don't worry about the quizzes or other "Pro" content.
+
+**Due**: Friday, Sept. 29
