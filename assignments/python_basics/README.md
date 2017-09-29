@@ -22,3 +22,10 @@ Wednesday, Sept. 27
 Assignment: Finish the **Strings and Console Output** section. Again, don't worry about the quizzes or other "Pro" content.
 
 **Due**: Friday, Sept. 29
+
+Friday, Sept. 29
+---------------
+
+Assignment: Finish the **Conditionals and Control Flow** section.
+
+**Due**: Monday, Oct. 2
