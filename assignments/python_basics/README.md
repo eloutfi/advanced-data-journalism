@@ -29,3 +29,10 @@ Friday, Sept. 29
 Assignment: Finish the **Conditionals and Control Flow** section.
 
 **Due**: Monday, Oct. 2
+
+Monday, Oct. 2
+---------------
+
+Assignment: Finish the **Functions** section.
+
+**Due**: Wednesday, Oct. 4
